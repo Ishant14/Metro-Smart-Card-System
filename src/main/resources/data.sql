@@ -1,0 +1,1 @@
+insert into card(CARD_NUMBER,BALANCE) values (2457895L, 180);
